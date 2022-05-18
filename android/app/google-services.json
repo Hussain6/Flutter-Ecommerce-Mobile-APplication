@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837623988014",
+    "project_id": "buygenix1",
+    "storage_bucket": "buygenix1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837623988014:android:beeb24896fd5d1917384bf",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837623988014-ogmg55q0u8fih4ihc3bq1frcsuamqkpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FvVoTAykaFLAtgqpapxTxBCHNt_iMTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837623988014-ogmg55q0u8fih4ihc3bq1frcsuamqkpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
